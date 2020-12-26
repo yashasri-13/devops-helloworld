@@ -8,3 +8,4 @@ echo "This is running in a build step and it shows changes"
 SUM=$((FIRSTNUMBER + SECONDNUMBER))
 echo "$SUM"
 echo "this is devops hello world"
+echo "this is first commit"
